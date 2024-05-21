@@ -1,5 +1,5 @@
 # SWAPI Project
-puede vistiar el sitio: swapi-project-ten.vercel.app
+puede vistiar el sitio: https://swapi-project-ten.vercel.app/
 
 ## Descripción
 Esta aplicación Angular permite visualizar planetas, sus residentes y los vehículos de estos, utilizando la API de Star Wars (https://swapi.dev).
